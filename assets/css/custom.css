@@ -11,3 +11,9 @@
 #content-mobile {display: block;}
 
 }
+
+@media (max-device-width: 768px) {
+  .mobile-text {
+    text-align: center !important;
+  }
+}
